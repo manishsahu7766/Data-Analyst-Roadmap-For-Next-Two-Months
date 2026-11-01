@@ -1,0 +1,61 @@
+One-Way, Two-Way & Three-Way Tables
+Learn to organize data, step by step
+
+Dataset: Survey of 100 Students (Course, Internship, Gender)
+
+1) One-Way Table
+Definition: A One-Way Table shows the frequency (count) of just one variable. It is also called a Frequency Table.
+
+Course| Students| Percent
+ BCA  |   40    | 40%
+ BBA  |   35    | 35%
+ BCom |   25    | 25%
+Total |   100   | 100%
+
+Insight: Most students are from BCA (40%).
+When to Use: When you want to find the count or percentage of a single category.
+
+
+2) Two-Way Table
+Definition: A Two-Way Table shows two variables together. It is also called Cross-Tabulation.
+
+Variables:
+- Course
+- Internship
+
+Course| Internship: Yes| Internship: No| Total
+ BCA  |      28        |       12      | 40
+ BBA  |      14        |       21      | 35
+ BCom |      8         |       17      | 25
+ Total|     50         |       50      | 100
+
+Insight: 70% of BCA students (28/40) completed an internship, compared to only 32% of BCom students (8/25).
+When to Use: When you want to understand the relationship between two variables.
+
+
+3) Three-Way Table
+Definition: A Three-Way Table shows three variables together. Here, Course and Internship are analyzed based on Gender.
+
+Variables:
+- Course
+- Internship
+- Gender
+
+Course| Male Yes| Male No| Female Yes| Female No| Total
+  BCA |    18   |   6    |     10    |     6    |  40
+  BBA |    7    |   11   |     7     |     10   |  35
+  BCom|    4    |   9    |     4     |     8    |  25
+ Total|    29   |   26   |     21    |     24   |  100
+
+Insight: BCA has the highest internship rate (Male: 75%, Female: 62.5%). BCom has a comparatively low internship rate for both genders.
+
+
+ Quick Summary
+
+Table    | Variables | Purpose
+One-Way  |     1     | Frequency / Percentage
+Two-Way  |     2     | Find Relationships
+Three-Way|     3     | Deeper Insights
+
+Key Takeaway: The more relevant variables you add, the deeper the insights you can discover. 
+However, larger tables can be harder to understand, so include only the variables that matter.
